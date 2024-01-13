@@ -1,0 +1,6 @@
+# ignores all files
+*
+
+# does not ignore files
+!LineageOS_*.sh
+!.gitignore
